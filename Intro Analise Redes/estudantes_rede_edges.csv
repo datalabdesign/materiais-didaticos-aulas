@@ -1,0 +1,66 @@
+Source,Target,Estagio,Semestre,Genero,Participacao,Gosto
+João,Lucas,Estagiando,3,Masculino,Pouco assíduo,UX
+João,Ana,Estagiando,3,Masculino,Pouco assíduo,UX
+Lucas,Gabriel,Estagiando,4,Masculino,Pouco assíduo,UX
+Lucas,Ana,Estagiando,4,Masculino,Pouco assíduo,UX
+Lucas,Fernanda,Estagiando,4,Masculino,Pouco assíduo,UX
+Gabriel,Beatriz,Estagiando,7,Masculino,Pouco assíduo,UX
+Gabriel,Ana,Estagiando,7,Masculino,Pouco assíduo,UX
+Beatriz,Carlos,Estagiando,3,Feminino,Pouco assíduo,UX
+Beatriz,Ana,Estagiando,3,Feminino,Pouco assíduo,UX
+Carlos,Ana,Estagiando,4,Masculino,Pouco assíduo,UX
+Maria,Clara,Estagiando,4,Feminino,Pouco assíduo,Gráfico
+Maria,Rodrigo,Estagiando,4,Feminino,Pouco assíduo,Gráfico
+Maria,Fernanda,Estagiando,4,Feminino,Pouco assíduo,Gráfico
+Clara,Paula,Estagiando,7,Feminino,Pouco assíduo,Gráfico
+Clara,Rodrigo,Estagiando,7,Feminino,Pouco assíduo,Gráfico
+Paula,Eduarda,Estagiando,7,Feminino,Pouco assíduo,Gráfico
+Paula,Rodrigo,Estagiando,7,Feminino,Pouco assíduo,Gráfico
+Eduarda,Rodrigo,Estagiando,3,Feminino,Pouco assíduo,Gráfico
+Rafael,Pedro,Sem Estágio,4,Masculino,Orientando,Odeia código
+Rafael,Thiago,Sem Estágio,4,Masculino,Orientando,Odeia código
+Rafael,Fernanda,Sem Estágio,4,Masculino,Orientando,Odeia código
+Pedro,Thiago,Sem Estágio,7,Masculino,Orientando,Odeia código
+Ana,Fernanda,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Roberta,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Leonardo,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Juliana,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Rodrigo,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Larissa,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Rafael,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Pedro,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Thiago,Sem Estágio,4,Feminino,Monitor,Odeia código
+Ana,Lucas,Sem Estágio,4,Feminino,Monitor,Odeia código
+Fernanda,Roberta,Sem Estágio,7,Feminino,Monitor,Odeia código
+Fernanda,Leonardo,Sem Estágio,7,Feminino,Monitor,Odeia código
+Fernanda,Juliana,Sem Estágio,7,Feminino,Monitor,Odeia código
+Fernanda,Rodrigo,Sem Estágio,7,Feminino,Monitor,Odeia código
+Fernanda,Larissa,Sem Estágio,7,Feminino,Monitor,Odeia código
+Fernanda,Rafael,Sem Estágio,7,Feminino,Monitor,Odeia código
+Fernanda,Pedro,Sem Estágio,7,Feminino,Monitor,Odeia código
+Fernanda,Thiago,Sem Estágio,7,Feminino,Monitor,Odeia código
+Roberta,Leonardo,Sem Estágio,3,Feminino,Monitor,Odeia código
+Roberta,Juliana,Sem Estágio,3,Feminino,Monitor,Odeia código
+Roberta,Rodrigo,Sem Estágio,3,Feminino,Monitor,Odeia código
+Roberta,Larissa,Sem Estágio,3,Feminino,Monitor,Odeia código
+Roberta,Rafael,Sem Estágio,3,Feminino,Monitor,Odeia código
+Roberta,Pedro,Sem Estágio,3,Feminino,Monitor,Odeia código
+Roberta,Thiago,Sem Estágio,3,Feminino,Monitor,Odeia código
+Leonardo,Juliana,Sem Estágio,4,Masculino,Orientando,Odeia código
+Leonardo,Rodrigo,Sem Estágio,4,Masculino,Orientando,Odeia código
+Leonardo,Larissa,Sem Estágio,4,Masculino,Orientando,Odeia código
+Leonardo,Rafael,Sem Estágio,4,Masculino,Orientando,Odeia código
+Leonardo,Pedro,Sem Estágio,4,Masculino,Orientando,Odeia código
+Leonardo,Thiago,Sem Estágio,4,Masculino,Orientando,Odeia código
+Juliana,Rodrigo,Sem Estágio,7,Feminino,Orientando,Odeia código
+Juliana,Larissa,Sem Estágio,7,Feminino,Orientando,Odeia código
+Juliana,Rafael,Sem Estágio,7,Feminino,Orientando,Odeia código
+Juliana,Pedro,Sem Estágio,7,Feminino,Orientando,Odeia código
+Juliana,Thiago,Sem Estágio,7,Feminino,Orientando,Odeia código
+Rodrigo,Larissa,Sem Estágio,3,Masculino,Orientando,Odeia código
+Rodrigo,Rafael,Sem Estágio,3,Masculino,Orientando,Odeia código
+Rodrigo,Pedro,Sem Estágio,3,Masculino,Orientando,Odeia código
+Rodrigo,Thiago,Sem Estágio,3,Masculino,Orientando,Odeia código
+Larissa,Rafael,Sem Estágio,4,Feminino,Orientando,Odeia código
+Larissa,Pedro,Sem Estágio,4,Feminino,Orientando,Odeia código
+Larissa,Thiago,Sem Estágio,4,Feminino,Orientando,Odeia código
