@@ -15,6 +15,15 @@ O repositório é organizado em subpastas dedicadas a cada tema ou evento espec�
 - **Vídeo Tutorial**: A aula correspondente a este material está disponível no canal do Datalab Design no YouTube.
 - **Objetivo**: Facilitar o aprendizado da interface e das funcionalidades do Gephi Lite, especialmente em contextos de ensino com recursos computacionais limitados.
 
+### Pasta `Youtube Data Tools`
+
+- **Descrição**: Materiais didáticos para o uso da ferramenta YouTube Data Tools (YTDT), desenvolvida por Bernhard Rieder, voltados para exercícios em sala de aula.
+- **Conteúdo**:
+  - Uma tabela com a síntese de cada módulo da ferramenta, facilitando a compreensão das funcionalidades disponíveis.
+  - Um notebook  `Formatar Video e Channel ID Youtube Data Tools.ipynb`, criado para automatizar a formatação de IDs de vídeos e canais para uso com os módulos do YTDT. O notebook simplifica o processo ao permitir que os usuários copiem dados de IDs de canais ou vídeos diretamente da coluna do CSV, removam duplicatas e formatem as IDs separadas por vírgula como é exigido pelo YTDT.
+- **Objetivo**: Fornecer recursos didáticos para o uso do YouTube Data Tools em análises de redes e dados digitais em sala de aula, poupando tempo e esforço na preparação dos dados necessários para a formatação das redes.
+
+
 ## Sobre o Datalab Design
 
 O Datalab Design é um laboratório de pesquisa em visualização de dados e métodos digitais, vinculado ao curso de Design da Universidade do Estado da Bahia (UNEB) e coordenado pelo Professor Dr. Elias Bitencourt. Nossa metodologia combina design de visualização de dados, ciência de dados e as perspectivas teóricas dos estudos em ciência e tecnologia (STS). Essa abordagem permite explorar a relação entre mediações algorítmicas, plataformas digitais e fenômenos sociais contemporâneos.
