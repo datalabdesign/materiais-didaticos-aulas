@@ -22,6 +22,8 @@ O repositório é organizado em subpastas dedicadas a cada tema ou evento espec�
   - Uma tabela com a síntese de cada módulo da ferramenta, facilitando a compreensão das funcionalidades disponíveis.
   - Um notebook  `Formatar Video e Channel ID Youtube Data Tools.ipynb`, criado para automatizar a formatação de IDs de vídeos e canais para uso com os módulos do YTDT. O notebook simplifica o processo ao permitir que os usuários copiem dados de IDs de canais ou vídeos diretamente da coluna do CSV, removam duplicatas e formatem as IDs separadas por vírgula como é exigido pelo YTDT.
 - **Objetivo**: Fornecer recursos didáticos para o uso do YouTube Data Tools em análises de redes e dados digitais em sala de aula, poupando tempo e esforço na preparação dos dados necessários para a formatação das redes.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/datalabdesign/materiais-didaticos-aulas/blob/main/Youtube%20Data%20Tools/Formatar_Video_e_Chanel_ID_Youtube_Data_Tools_V1.ipynb)
+
 
 
 ## Sobre o Datalab Design
